@@ -29,3 +29,9 @@
 - 2021년 공공 빅데이터 분석청년 인재양성 실무형 프로젝트
 
 - DACON 2021 JOISS 해양과학 빅데이터 활용 경진대회 - `한국해양학회장상(2등)`
+
+## 🛠 Tool & Languages
+
+- Programming Languages: `Python`, `R`, `MySQL`
+
+- Tool: `QGIS`, `Tableau`
