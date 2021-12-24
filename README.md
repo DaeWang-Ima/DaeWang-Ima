@@ -10,9 +10,9 @@
 
 ## 📊 Data Analysis Education
 
-- `2020. 06 ~ 2020. 09` 2020 데이터 청년 캠퍼스[연세대학교 - 빅데이터 분석처리 과정]
+- `2020. 06 ~ 2020. 09` 2020 데이터 청년 캠퍼스[[연세대학교 - 빅데이터 분석처리 과정](https://github.com/DaeWang-Ima/2020-Data-Youth-Campus)]
 
-- `2021. 04 ~ 2021. 05` Comento 빅데이터 직무부트캠프[[데이터분석 실무자와 빅데이터 인프라부터 데이터 분석 경험하기](https://github.com/DaeWang-Ima/Comento-BigData/blob/main/과제%20제출/양재영_코멘토%20최종%20결과물.pdf)]
+- `2021. 04 ~ 2021. 05` Comento 빅데이터 직무부트캠프[[데이터분석 실무자와 빅데이터 인프라부터 데이터 분석 경험하기](https://github.com/DaeWang-Ima/Comento-BigData)]
 
 - `2021. 07 ~ 2021. 08` 2021년 공공빅데이터 분석 청년인재 양성사업
 
@@ -22,7 +22,7 @@
 
 ## 🏆 Data Competition
 
-- 2020 데이터 청년 캠퍼스 프로젝트
+- [2020 데이터 청년 캠퍼스 프로젝트](https://github.com/DaeWang-Ima/2020-Data-Youth-Campus/blob/main/발표%20자료/%5B타요%5D_교통정보%20활용%20미래%20교통%20상황예측%20모델%20개발.pdf)
 
 - 2020년도 2차 체육종합 데이터 활용 경진대회 - `데이터 아이디어 부분 대상(1등)`
 
