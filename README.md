@@ -24,11 +24,11 @@
 
 - [2020 데이터 청년 캠퍼스 프로젝트](https://github.com/DaeWang-Ima/2020-Data-Youth-Campus/blob/main/발표%20자료/%5B타요%5D_교통정보%20활용%20미래%20교통%20상황예측%20모델%20개발.pdf)
 
-- 2020년도 2차 체육종합 데이터 활용 경진대회 - `데이터 아이디어 부분 대상(1등)`
+- [2020년도 2차 체육종합 데이터 활용 경진대회](https://github.com/DaeWang-Ima/KSPO-Data-Competition/blob/main/발표%20자료/%5B휩쓰리%5D_장애인%20스포츠%20강좌%20이용권%20어플리케이션.pdf) - `데이터 아이디어 부분 대상(1등)`
 
 - 2021년 공공 빅데이터 분석청년 인재양성 실무형 프로젝트
 
-- DACON 2021 JOISS 해양과학 빅데이터 활용 경진대회 - `한국해양학회장상(2등)`
+- [DACON 2021 JOISS 해양과학 빅데이터 활용 경진대회](https://dacon.io/competitions/official/235793/codeshare/3664?page=1&dtype=random) - `한국해양학회장상(2등)`
 
 ## 🛠 Tool & Languages
 
