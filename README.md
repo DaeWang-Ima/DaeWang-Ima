@@ -34,4 +34,4 @@
 
 - Programming Languages: `Python`, `R`, `MySQL`
 
-- Tool: `QGIS`, `Tableau`
+- Tool: `SPSS`, `QGIS`, `Tableau`
