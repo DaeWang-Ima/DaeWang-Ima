@@ -19,6 +19,8 @@
 ## 🧑🏻‍💻 Career
 
 - `2021. 09 ~ ing` 해양경찰청 해양치안빅데이터팀
+  - 해양경찰청 주요 사고 원인 도출을 위한 상황보고서 텍스트마이닝 프로젝트 (진행중)
+  - [그 외 업무](https://github.com/DaeWang-Ima/KCG-Internship)
 
 ## 🏆 Data Competition
 
