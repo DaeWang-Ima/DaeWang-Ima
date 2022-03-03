@@ -19,8 +19,10 @@
 ## 🧑🏻‍💻 Career
 
 - `2021. 09. 06 ~ 2022. 02. 28` 해양경찰청 해양치안빅데이터팀
-  - 해양경찰청 주요 사고 원인 도출을 위한 상황보고서 텍스트마이닝 프로젝트 (진행중)
-  - [그 외 업무](https://github.com/DaeWang-Ima/KCG-Internship)
+  - Python Web Crawling을 통한 연안사고 데이터 자동 수집 및 저장
+  - 차량 추락 및 침수 사고 데이터 Reverse Geocoding & 지도 시각화
+  - 해양 주요 사고 원인 도출을 위한 상황보고서 전처리 및 주요 변수 도출, EDA, WordCloud
+  - 해상조난사고 현황분석 및 시계열 예측
 
 ## 🏆 Data Competition
 
